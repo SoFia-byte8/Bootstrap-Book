@@ -1,0 +1,113 @@
+.bg-dark {
+    background-color: #006978;
+}
+
+.height-carousel {
+    max-height: 400px;
+    min-width: 400px;
+}
+h5 {
+    color: rgb(144, 214, 231);
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.fas  {
+    color: white;
+    font-size: 25px;
+}
+.row {
+    color:white;
+}
+.img{
+    height: 10px;
+    width: 20px;
+}
+.icon-redes {
+    color:black;
+    font-size: 50px;
+    margin-right: 3%;
+}
+.t {
+    color:rgb(22, 123, 163);
+}
+.f {
+    color:rgb(34, 34, 202);
+}
+.i {
+    color: rgb(214, 52, 165);
+}
+.w {
+    color: green;
+}
+.e {
+    color: rgb(201, 31, 31);
+}
+.exterior {
+    border: 50px rgb(253, 253, 253) solid;
+}
+footer {
+    width: 1200%;
+    height: 90%;
+    background: #c2bdbd; 
+    color: rgb(0, 0, 0);
+    padding:10px;
+    border-top: 50px rgb(253, 253, 253) solid;
+    text-decoration: none;
+}
+.container-footer-all {
+    width:100%;
+    padding: 20px;
+}
+
+.container-body {
+    flex-wrap: wrap;
+    justify-content: flex-end;
+}
+.colum1 {
+    max-width:300px;
+ }
+    .colum1 h1 {
+    font-size:22px;
+    }
+        .colum1 p {
+            font-size:10px;
+            color: black;
+            margin-top: 10px;
+        }
+
+
+.colum3 {
+    flex-wrap: wrap;
+    text-align: right;
+    right: 10% 10% 20% 90%;
+}
+.colum3 h1 {
+    font-size:22px;
+    }
+            .row iframe {
+                width: 110%;
+                height: 250%;
+                text-align: right;
+            }
+                .row label {
+                    margin-top:10px;
+                    margin-left:20px;
+                    color: black;
+                }
+                .row label a {
+                    margin-top:10px;
+                    margin-left:20px;
+                    color:black;
+                }
+
+.information {
+    text-align: right;
+}
+
+.container-footer {
+     width:100%;
+     background: #5a5757;
+     padding: 5px;
+}
+
